@@ -1,4 +1,4 @@
-## I can make changes here. Really? #2?
+## Reset the theme
 
 You can use the [editor on GitHub](https://github.com/pack98/pack98.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
