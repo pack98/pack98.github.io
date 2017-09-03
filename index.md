@@ -36,6 +36,9 @@ Grade | Rank
 
 The Pack is all of our Dens together.
 
+### How do I get announcements from the Pack?
+[Sign up for remind by texting `@gopack98` to 81010.]("sms:81010&body=@gopack98")
+
 ### Cub Scout Motto
 Do your best.
 
