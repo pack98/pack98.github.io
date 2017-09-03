@@ -1,4 +1,5 @@
-### Monday Night Calendar for returning Pack 98 Scouts and new Scouts from Westside Elementary  
+### Monday Night Calendar
+for returning Pack 98 Scouts and new Scouts from Westside Elementary  
 
 Date  | Event 
 ----- | -----
