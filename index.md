@@ -16,6 +16,9 @@ Den meetings are held every Monday & Tuesday, except for the third Monday & Tues
 
 We follow the Searcy Public Schools inclement weather policy. If Searcy Public Schools are closed during the day, we will not meet that evening. 
 
+[Monday Calendar](monday.html)
+[Tuesday Calendar](tuesday.html)
+
 Our calendar handout was printed with Monday dates. The Tuesday night group will only meet on weeks when the Monday group meets. For example, we are not meeting on Labor Day (a Monday), so we will not be meeting on the day after (which is Tuesday) either.
 
 ### Where do you meet?
