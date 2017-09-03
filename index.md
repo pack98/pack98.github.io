@@ -1,17 +1,20 @@
-## Welcome to Pack 98
-With the start of the new school year and so many new faces joining us, we've put together this site to answer the most common questions.
+### Welcome to Cub Scout Pack 98
+Our goal is to work with parents to develop our sons into people who care and understand about the amazing world around them. It’s been said that, “Scouting is fun with a purpose”, and we believe that to be true. Scouting does this by mixing fun activities like games, field trips, camping, competitions like Pinewood Derby, service projects, and crafts with teachings about character, citizenship, and concern for our fellow man.
 
-Our Pack Committee's decision making is guided by three principles:
-1. When possible, do what is best for the boys.
-2. Don't punish boys for the mistakes of adults.
-3. Financial transparency in all our efforts.
+Families are essential to our Pack success. Cub Scouts provides a structure for you and your son to play and learn together. You can do even more: every leader in Pack 98 either has a son in Scouting or was an Eagle Scout. All of us are volunteers. Please see one of us if you are interested in leading or helping out in any way.
 
-### When do you meet?
-Due to the surge in new Scouts joining us this year, this is the most confusing question. We do not have enough space at the building for all of us to meet at one time, so we have split into two nights:
+### Where and When do you meet?
+Due to the surge in new Scouts joining us this year, we do not have enough space at the building for all of us to meet at one time. After much discussion, our solution is to split meetings into two nights a week:
 
 **Returning Pack 98 Scouts and new Scouts from Westside Elementary meet on Monday nights at 6:30 pm.**
 
 **New Scouts from McRae and Sidney Deener Elementary schools meet on Tuesday nights at 6:30 pm.**
+
+Starting the week of September 11, Cub Scouts will meet Monday & Tuesday evenings at 6:30 pm at First Christian Church, 2721 W Beebe Capps.
+
+Den meetings are held every Monday & Tuesday, except for the third Monday & Tuesday of the month when we hold our Pack Meeting.
+
+We follow the Searcy Public Schools inclement weather policy. If Searcy Public Schools are closed during the day, we will not meet that evening. 
 
 Our calendar handout was printed with Monday dates. The Tuesday night group will only meet on weeks when the Monday group meets. For example, we are not meeting on Labor Day (a Monday), so we will not be meeting on the day after (which is Tuesday) either.
 
@@ -20,9 +23,97 @@ Pack 98 meets at First Christian Church (our charter organization) at 2721 W Bee
 
 Head west on Beebe-Capps past Harp's Grocery store, through the intersection; the building is on your left.
 
-### Does our Scout need a uniform?
-In an ideal world, all Scouts would have a uniform and want to wear it to all meetings. The uniform reinforces that all the boys are part of a single group working towards a common goal.
+### Can you explain Dens and the Pack?
+Dens are organized by grade and by the rank they are working towards.
 
-That being said, we will never exclude any Scout from participating in any Pack activity because of the lack of a uniform. We understand there are a number of reasons why 
+1st Grade - Tiger
+
+2nd Grade - Wolf
+
+3rd Grade - Bear
+
+4th Grade - Webelos I
+
+5th Grade - Webelos II
+
+The Pack is all of our Dens together.
+
+### Cub Scout Motto
+Do your best.
+
+### Scout Oath
+On my honor I will do my best
+To do my duty to God and my country
+And to obey the Scout Law;
+To help other people at all times;
+To keep myself physically strong,
+mentally awake, and morally straight.
+
+### Scout Law
+A Scout is trustworthy, loyal, helpful, friendly, courteous, kind, obedient, cheerful, thrifty, brave, clean, and reverent. 
+
+### What about uniforms? What is a Class A vs. a Class B uniform?
+Class A uniform is the traditional, formal Cub Scout Uniform with a blue shirt. **Details about the uniform are described by rank, along with patch placement, at http://bsauniforms.org/**
+
+Class B uniform is a Scouting t-shirt of many different designs available from the Scout Shop or one of our Pack 98 t-shirts.
+
+We encourage all Scouts to wear a uniform because it makes Scouts feel like they are part of something bigger than themselves. However, a formal Cub Scout uniform isn't required to participate in any Pack 98 activity, because we know there are many good reasons why a Scout may not have one.
+
+### Do I need to buy a complete Class A uniform?
+Again, no uniform is required for Pack 98 activities. Most families do not buy a complete uniform. (For example, my son is too hard on the Scout uniform pants and shorts and they fit him poorly.)
+
+Most of our Scouts have a Class A shirt and one or more Class B t-shirts. Some buy the Cub Scout belt to hold the belt loops they earn along the way towards earning their rank.
 
 ### Where can we buy a uniform?
+The easiest place to buy part or all of a Scout uniform is the Scout Shop in Little Rock on Cantrell Rd. or online at ScoutStuff.org. I think a Scout shirt runs about $25 from either place.
+
+You can also buy uniforms for a lower price in good, sometimes excellent condition from ebay.com, consignment shops or Rhea Lana.
+
+### What is the Pack Committee and how is leadership organized?
+The Pack Committee, headed by the Pack Committee Chairman, works with our charter organization, First Christian Church, to run our Cub Scout Pack.
+
+The Pack Committee works with the Cubmaster and Den Leaders to provide a great program for our Cub Scouts.
+
+Our Pack Committee's decision making is guided by three principles:
+1. When possible, do what is best for the boys.
+2. Don't punish boys for the mistakes of adults.
+3. Financial transparency in all our efforts.
+
+The Pack Committee is John Exum (Pack Committee Chairman), Frank Likert (Treasurer & Assistant Cubmaster), Willie Abrams (Cubmaster), Bill LaGrange (Den Leader), and Jake Green (Assistant Den Leader). Scott Turley (Den Leader) is a member through the end of September 2017.
+
+### Calendar
+|---|---|
+|Sept 11|Den Meetings, 6:30 pm|
+||
+|Sept 16|Bobcat Day, 8:30 am – 1:00 pm, Cabot United Methodist|
+||
+|Sept 18|Popcorn Kickoff Pack Meeting, 6:30 pm|
+||
+|Sept 25|Den Meetings, 6:30 pm|
+|Oct 2|Den Meetings, 6:30 pm|
+||
+|Oct 6-8|Quapaw Council Camp at Camp Rockefeller|
+||
+|Oct 9|Popcorn Order Forms & Money Due at Den Meetings, 6:30 pm|
+||
+|Oct 16|Pack Meeting, 6:30 pm|
+|Oct 23|Den Meetings, 6:30 pm|
+||
+|Oct 27-29|Quapaw Council Camp at Camp Rockefeller|
+||
+|Oct 30|Den Meetings, 6:30 pm|
+||
+|Nov 3-5|Pack Campout at Crowley's Ridge State Park|
+||
+|Nov 6|Popcorn Pickup, 6:30 pm|
+||
+|Nov 13|Den Meetings, 6:30 pm|
+|Nov 20|Den Meetings, 6:30 pm|
+|Nov 27|Den Meetings, 6:30 pm|
+||
+|Dec 2|Searcy Christmas Parade, 5:15 pm|
+||
+|Dec 4|Den Meetings, 6:30 pm|
+|Dec 11|Den Meetings, 6:30 pm|
+||
+|Dec 18|Pack Christmas Party & Service Project, 6:30 pm|
