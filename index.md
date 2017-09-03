@@ -26,15 +26,13 @@ Head west on Beebe-Capps past Harp's Grocery store, through the intersection; th
 ### Can you explain Dens and the Pack?
 Dens are organized by grade and by the rank they are working towards.
 
-1st Grade - Tiger
-
-2nd Grade - Wolf
-
-3rd Grade - Bear
-
-4th Grade - Webelos I
-
-5th Grade - Webelos II
+Grade | Rank 
+----- | ----
+1st Grade | Tiger
+2nd Grade | Wolf
+3rd Grade | Bear
+4th Grade | Webelos I
+5th Grade | Webelos II
 
 The Pack is all of our Dens together.
 
