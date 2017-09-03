@@ -17,7 +17,10 @@ Den meetings are held every Monday & Tuesday, except for the third Monday & Tues
 We follow the Searcy Public Schools inclement weather policy. If Searcy Public Schools are closed during the day, we will not meet that evening. 
 
 [Monday Calendar](monday.html)
+
 [Tuesday Calendar](tuesday.html)
+
+[Monday Calendar 2]({% link monday.md %})
 
 Our calendar handout was printed with Monday dates. The Tuesday night group will only meet on weeks when the Monday group meets. For example, we are not meeting on Labor Day (a Monday), so we will not be meeting on the day after (which is Tuesday) either.
 
@@ -83,28 +86,3 @@ Our Pack Committee's decision making is guided by three principles:
 3. Financial transparency in all our efforts.
 
 The Pack Committee is John Exum (Pack Committee Chairman), Frank Likert (Treasurer & Assistant Cubmaster), Willie Abrams (Cubmaster), Bill LaGrange (Den Leader), and Jake Green (Assistant Den Leader). Scott Turley (Den Leader) is a member through the end of September 2017.
-
-### Calendar
-
-Date  | Event 
------ | -----
-Sept 11 | Den Meetings, 6:30 pm 
-Sept 16 | Bobcat Day, 8:30 am – 1:00 pm, Cabot United Methodist 
-Sept 18 | Popcorn Kickoff Pack Meeting, 6:30 pm
-Sept 25 | Den Meetings, 6:30 pm
-Oct 2 | Den Meetings, 6:30 pm
-Oct 6-8 | Quapaw Council Camp at Camp Rockefeller
-Oct 9 | Popcorn Order Forms & Money Due at Den Meetings, 6:30 pm
-Oct 16 | Pack Meeting, 6:30 pm
-Oct 23 | Den Meetings, 6:30 pm
-Oct 27-29 | Quapaw Council Camp at Camp Rockefeller
-Oct 30 | Den Meetings, 6:30 pm
-Nov 3-5 | Pack Campout at Crowley's Ridge State Park
-Nov 6 | Popcorn Pickup, 6:30 pm
-Nov 13 | Den Meetings, 6:30 pm
-Nov 20 | Den Meetings, 6:30 pm
-Nov 27 | Den Meetings, 6:30 pm
-Dec 2 | Searcy Christmas Parade, 5:15 pm
-Dec 4 | Den Meetings, 6:30 pm
-Dec 11 | Den Meetings, 6:30 pm
-Dec 18 | Pack Christmas Party & Service Project, 6:30 pm
