@@ -82,6 +82,7 @@ Our Pack Committee's decision making is guided by three principles:
 The Pack Committee is John Exum (Pack Committee Chairman), Frank Likert (Treasurer & Assistant Cubmaster), Willie Abrams (Cubmaster), Bill LaGrange (Den Leader), and Jake Green (Assistant Den Leader). Scott Turley (Den Leader) is a member through the end of September 2017.
 
 ### Calendar
+|  |  |
 |---|---|
 |Sept 11|Den Meetings, 6:30 pm|
 ||
