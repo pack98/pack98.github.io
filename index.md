@@ -84,9 +84,9 @@ The Pack Committee is John Exum (Pack Committee Chairman), Frank Likert (Treasur
 ### Calendar
 |  |  |
 |---|---|
-|Sept 11|Den Meetings, 6:30 pm|
+| Sept 11 | Den Meetings, 6:30 pm |
 |||
-|Sept 16|Bobcat Day, 8:30 am – 1:00 pm, Cabot United Methodist|
+| Sept 16 | Bobcat Day, 8:30 am – 1:00 pm, Cabot United Methodist |
 ||
 |Sept 18|Popcorn Kickoff Pack Meeting, 6:30 pm|
 ||
