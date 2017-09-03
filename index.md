@@ -45,12 +45,7 @@ The Pack is all of our Dens together.
 Do your best.
 
 ### Scout Oath
-On my honor I will do my best
-To do my duty to God and my country
-And to obey the Scout Law;
-To help other people at all times;
-To keep myself physically strong,
-mentally awake, and morally straight.
+On my honor I will do my best to do my duty to God and my country and to obey the Scout Law; to help other people at all times; to keep myself physically strong, mentally awake, and morally straight.
 
 ### Scout Law
 A Scout is trustworthy, loyal, helpful, friendly, courteous, kind, obedient, cheerful, thrifty, brave, clean, and reverent. 
@@ -68,7 +63,7 @@ Again, no uniform is required for Pack 98 activities. Most families do not buy a
 Most of our Scouts have a Class A shirt and one or more Class B t-shirts. Some buy the Cub Scout belt to hold the belt loops they earn along the way towards earning their rank.
 
 ### Where can we buy a uniform?
-The easiest place to buy part or all of a Scout uniform is the Scout Shop in Little Rock on Cantrell Rd. or online at ScoutStuff.org. I think a Scout shirt runs about $25 from either place.
+The easiest place to buy part or all of a Scout uniform is the Scout Shop in Little Rock at 3220 Cantrell Rd ([501-663-7157](tel:501-663-7157)) or online at [ScoutStuff.org](https://scoutstuff.org). I think a Scout shirt runs about $25 from either place.
 
 You can also buy uniforms for a lower price in good, sometimes excellent condition from ebay.com, consignment shops or Rhea Lana.
 
@@ -82,4 +77,4 @@ Our Pack Committee's decision making is guided by three principles:
 2. Don't punish boys for the mistakes of adults.
 3. Financial transparency in all our efforts.
 
-The Pack Committee is John Exum (Pack Committee Chairman), Frank Likert (Treasurer & Assistant Cubmaster), Willie Abrams (Cubmaster), Bill LaGrange (Den Leader), and Jake Green (Assistant Den Leader). Scott Turley (Den Leader) is a member through the end of September 2017.
+The Pack Committee consists of: John Exum (Pack Committee Chairman), Frank Likert (Treasurer & Assistant Cubmaster), Willie Abrams (Cubmaster), Bill LaGrange (Den Leader), and Jake Green (Assistant Den Leader). Scott Turley (Den Leader) is a member through the end of September 2017.
