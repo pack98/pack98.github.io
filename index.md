@@ -51,7 +51,7 @@ mentally awake, and morally straight.
 A Scout is trustworthy, loyal, helpful, friendly, courteous, kind, obedient, cheerful, thrifty, brave, clean, and reverent. 
 
 ### What about uniforms? What is a Class A vs. a Class B uniform?
-Class A uniform is the traditional, formal Cub Scout Uniform with a blue shirt. **Details about the uniform are described by rank, along with patch placement, at http://bsauniforms.org/**
+Class A uniform is the traditional, formal Cub Scout Uniform with a blue shirt. **Details about the uniform are described by rank, along with patch placement, at [bsauniforms.org](http://bsauniforms.org/)**
 
 Class B uniform is a Scouting t-shirt of many different designs available from the Scout Shop or one of our Pack 98 t-shirts.
 
