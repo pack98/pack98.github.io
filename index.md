@@ -23,6 +23,11 @@ Pack 98 meets at First Christian Church (our charter organization) at 2721 W Bee
 
 Head west on Beebe-Capps past Harp's Grocery store, through the intersection; the building is on your left.
 
+### How do I get announcements from the Pack?
+Sign up for alerts & reminders by texting **@gopack98** to **81010**. If you are on a mobile phone, [you can tap here and hit send](sms:81010&body=@gopack98).
+
+We also have a [Facebook group for sharing photos and less urgent announcements](https://www.facebook.com/groups/searcypack98/) if you would like to join.
+
 ### Can you explain Dens and the Pack?
 Dens are organized by grade and by the rank they are working towards.
 
@@ -35,9 +40,6 @@ Grade | Rank
 5th Grade | Webelos II
 
 The Pack is all of our Dens together.
-
-### How do I get announcements from the Pack?
-[Sign up for remind by texting `@gopack98` to 81010.](sms:81010&body=@gopack98)
 
 ### Cub Scout Motto
 Do your best.
