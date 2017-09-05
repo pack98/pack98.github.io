@@ -60,7 +60,7 @@ Class A uniform is the traditional, formal Cub Scout Uniform with a blue shirt. 
 
 Class B uniform is a Scouting t-shirt of many different designs available from the Scout Shop or one of our Pack 98 t-shirts.
 
-We encourage all Scouts to wear a uniform because it makes Scouts feel like they are part of something bigger than themselves. However, a formal Cub Scout uniform isn't required to participate in any Pack 98 activity, because we know there are many good reasons why a Scout may not have one.
+We encourage Scouts to wear a uniform because it makes Scouts feel like they are part of something bigger than themselves. However, a formal Cub Scout uniform isn't required to participate in any Pack 98 activity, because we know there are many good reasons why a Scout may not have one.
 
 ## Do I need to buy a complete Class A uniform?
 Again, no uniform is required for Pack 98 activities. Most families do not buy a complete uniform. (For example, my son is too hard on the Scout uniform pants and shorts and they fit him poorly.)
