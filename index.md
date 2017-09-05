@@ -72,6 +72,9 @@ The easiest place to buy part or all of a Scout uniform is the Scout Shop in Lit
 
 You can also buy uniforms for a lower price in good, sometimes excellent condition from ebay.com, consignment shops or Rhea Lana.
 
+## What is my Scouts Den Number for the Den Patch?
+Given that a Den's size can change throughout the year resulting in division or contraction in the number of Dens for a given rank, and to avoid year over year Den patch churn, our guidance at this time is to either get the Den 1 patch or no Den patch at all.
+
 # What is the Pack Committee and how is leadership organized?
 The Pack Committee, headed by the Pack Committee Chairman, works with our charter organization, First Christian Church, to run our Cub Scout Pack.
 
