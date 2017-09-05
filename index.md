@@ -1,9 +1,9 @@
-### Welcome to Cub Scout Pack 98
-Our goal is to work with parents to develop our sons into people who care and understand about the amazing world around them. It’s been said that, “Scouting is fun with a purpose”, and we believe that to be true. Scouting does this by mixing fun activities like games, field trips, camping, competitions like Pinewood Derby, service projects, and crafts with teachings about character, citizenship, and concern for our fellow man.
+**Welcome to Cub Scout Pack** 98 Our goal is to work with parents to develop our sons into people who care and understand about the amazing world around them. It’s been said that, “Scouting is fun with a purpose”, and we believe that to be true. Scouting does this by mixing fun activities like games, field trips, camping, competitions like Pinewood Derby, service projects, and crafts with teachings about character, citizenship, and concern for our fellow man.
 
 Families are essential to our Pack success. Cub Scouts provides a structure for you and your son to play and learn together. You can do even more: every leader in Pack 98 either has a son in Scouting or was an Eagle Scout. All of us are volunteers. Please see one of us if you are interested in leading or helping out in any way.
 
-### Where and When do you meet?
+## Meetings
+### When do you meet?
 Due to the surge in new Scouts joining us this year, we do not have enough space at the building for all of us to meet at one time. After much discussion, our solution is to split meetings into two nights a week:
 
 **Returning Pack 98 Scouts and new Scouts from Westside Elementary meet on Monday nights at 6:30 pm.** [Monday Calendar]({% link monday.md %})
@@ -23,12 +23,13 @@ Pack 98 meets at First Christian Church (our charter organization) at 2721 W Bee
 
 Head west on Beebe-Capps past Harp's Grocery store, through the intersection; the building is on your left.
 
-### How do I get announcements from the Pack?
+# How do I get announcements from the Pack?
 Sign up for alerts & reminders by texting **@gopack98** to **81010**. If you are on a mobile phone, [you can tap here and hit send](sms:81010&body=@gopack98).
 
 We also have a [Facebook group for sharing photos and less urgent announcements](https://www.facebook.com/groups/searcypack98/) if you would like to join.
 
-### Can you explain Dens and the Pack?
+# Cub Scout Essentials
+## Can you explain Dens and the Pack?
 Dens are organized by grade and by the rank they are working towards.
 
 Grade | Rank 
@@ -41,16 +42,16 @@ Grade | Rank
 
 The Pack is all of our Dens together.
 
-### Cub Scout Motto
+## Cub Scout Motto
 Do your best.
 
-### Scout Oath
+## Scout Oath
 On my honor I will do my best to do my duty to God and my country and to obey the Scout Law; to help other people at all times; to keep myself physically strong, mentally awake, and morally straight.
 
-### Scout Law
+## Scout Law
 A Scout is trustworthy, loyal, helpful, friendly, courteous, kind, obedient, cheerful, thrifty, brave, clean, and reverent. 
 
-### Uniforms
+# Uniforms
 ## What about uniforms? What is a Class A vs. a Class B uniform?
 Class A uniform is the traditional, formal Cub Scout Uniform with a blue shirt. **Details about the uniform are described by rank, along with patch placement, at [bsauniforms.org](http://bsauniforms.org/)**
 
@@ -68,7 +69,7 @@ The easiest place to buy part or all of a Scout uniform is the Scout Shop in Lit
 
 You can also buy uniforms for a lower price in good, sometimes excellent condition from ebay.com, consignment shops or Rhea Lana.
 
-### What is the Pack Committee and how is leadership organized?
+# What is the Pack Committee and how is leadership organized?
 The Pack Committee, headed by the Pack Committee Chairman, works with our charter organization, First Christian Church, to run our Cub Scout Pack.
 
 The Pack Committee works with the Cubmaster and Den Leaders to provide a great program for our Cub Scouts.
