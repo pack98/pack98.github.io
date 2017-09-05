@@ -29,8 +29,10 @@ Sign up for alerts & reminders by texting **@gopack98** to **81010**. If you are
 We also have a [Facebook group for sharing photos and less urgent announcements](https://www.facebook.com/groups/searcypack98/) if you would like to join.
 
 # Cub Scout Essentials
-## Can you explain Dens and the Pack?
-Dens are organized by grade and by the rank they are working towards.
+## Can you explain Pack organization?
+A Pack is a local Cub Scout unit divided up into Dens.
+
+A Den is 5-10 boys in the same grade. Each Den works over the school year to complete the requirements for their rank badge. 
 
 Grade | Rank 
 ----- | ----
@@ -40,7 +42,8 @@ Grade | Rank
 4th Grade | Webelos I
 5th Grade | Webelos II
 
-The Pack is all of our Dens together.
+## What is the Bobcat Badge?
+All new Scouts must complete their Bobcat badge before working on their rank badge. Three of the Bobcat requirements are to learn the Cub Scout Motto, Scout Oath, and the Scout Law. Please work with your Scout to learn these before our first meeting.
 
 ## Cub Scout Motto
 Do your best.
