@@ -1,3 +1,4 @@
+{:toc}
 # Advice for Den Leaders
 The Den Leader Guide is an excellent resource. It explains the Cub Scout program, your role as a Den Leader, the structure of Den Meetings, and suggested Den Meeting plans. Many of your questions are answered in great detail there.
 
