@@ -24,7 +24,7 @@
 		{% for page in site.pages %}
 		  {% unless page.include_in_nav %}
 		    <a class="btn" href="{{ page.url | prepend: site.baseurl }}">
-		      {% page.title %}
+		      {{ page.title }}
 		    </a>
 		  {% endunless %}
 		{% endfor %}
