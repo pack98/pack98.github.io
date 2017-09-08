@@ -1,3 +1,6 @@
+___
+include_in_nav: true
+___
 ### Monday Night Calendar
 for returning Pack 98 Scouts and new Scouts from Westside Elementary  
 
