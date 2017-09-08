@@ -1,3 +1,6 @@
+___
+include_in_nav: true
+___
 ### Tuesday Night Calendar
 for new Scouts from McRae and Sidney Deener Elementary schools 
 
