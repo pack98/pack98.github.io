@@ -1,7 +1,7 @@
 ---
 include_in_nav: true
 ---
-### Monday Night Calendar
+### Monday Night Calendar - Fall 2017
 for returning Pack 98 Scouts and new Scouts from Westside Elementary  
 
 Date  | Event 
