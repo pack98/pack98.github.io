@@ -59,7 +59,7 @@ On my honor I will do my best to do my duty to God and my country and to obey th
 A Scout is trustworthy, loyal, helpful, friendly, courteous, kind, obedient, cheerful, thrifty, brave, clean, and reverent.
 
 ## Youth Protection
-All Scout leaders and Pack Committee members undergo Youth Protection Training every 2 years. Reviewing the [Youth Protection: How to Protect Your Child from Child Abuse](http://www.scouting.org/filestore/pdf/100-014_WEB.pdf) guide with your Cub Scout is a requirement for every single rank, every year in Cub Scouts.
+**All Scout leaders and Pack Committee members undergo Youth Protection Training every 2 years. Reviewing the [Youth Protection: How to Protect Your Child from Child Abuse](http://www.scouting.org/filestore/pdf/100-014_WEB.pdf) guide with your Cub Scout is a requirement for every single rank, every year in Cub Scouts.**
 
 # Uniforms
 ## What about uniforms? What is a Class A vs. a Class B uniform?
