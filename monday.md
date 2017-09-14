@@ -11,11 +11,11 @@ Sept 16 | Bobcat Day, 8:30 am – 1:00 pm, Cabot United Methodist
 Sept 18 | Popcorn Kickoff Pack Meeting, 6:30 pm
 Sept 25 | Den Meetings, 6:30 pm
 Oct 2 | Den Meetings, 6:30 pm
-Oct 6-8 | Quapaw Council Camp at Camp Rockefeller
+Oct 6-8 | [Quapaw Council Camp at Camp Rockefeller](http://www.quapawbsa.org/camping/cub-scout/)
 Oct 9 | Popcorn Order Forms & Money Due at Den Meetings, 6:30 pm
 Oct 16 | Pack Meeting, 6:30 pm
 Oct 23 | Den Meetings, 6:30 pm
-Oct 27-29 | Quapaw Council Camp at Camp Rockefeller
+Oct 27-29 | [Quapaw Council Camp at Camp Rockefeller](http://www.quapawbsa.org/camping/cub-scout/)
 Oct 30 | Den Meetings, 6:30 pm
 Nov 3-5 | Pack Campout at Crowley's Ridge State Park
 Nov 6 | Popcorn Pickup, 6:30 pm
