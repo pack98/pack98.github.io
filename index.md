@@ -2,9 +2,7 @@
 title: Frequently Asked Questions
 include_in_nav: true
 ---
-## [Click here for Uniform Information](uniforms)
-
-**Welcome to Cub Scout Pack 98.** Our goal is to work with parents to develop our sons into people who care and understand about the amazing world around them. It’s been said that, **“Scouting is fun with a purpose”**, and we believe that to be true. Scouting does this by mixing fun activities like games, field trips, camping, competitions like Pinewood Derby, service projects, and crafts with teachings about character, citizenship, and concern for our fellow man.
+*Welcome to Cub Scout Pack 98.** Our goal is to work with parents to develop our sons into people who care and understand about the amazing world around them. It’s been said that, **“Scouting is fun with a purpose”**, and we believe that to be true. Scouting does this by mixing fun activities like games, field trips, camping, competitions like Pinewood Derby, service projects, and crafts with teachings about character, citizenship, and concern for our fellow man.
 
 Families are essential to our Pack success. Cub Scouts provides a structure for you and your son to play and learn together. You can do even more: every leader in Pack 98 either has a son in Scouting or was an Eagle Scout. **All of us are volunteers.** Please see one of us if you are interested in leading or helping out in any way.
 
@@ -12,9 +10,9 @@ Families are essential to our Pack success. Cub Scouts provides a structure for 
 ### When do you meet?
 Due to the surge in new Scouts joining us this year, we do not have enough space at the building for all of us to meet at one time. After much discussion, our solution is to split meetings into two nights a week:
 
-**Returning Pack 98 Scouts and new Scouts from Westside Elementary meet on Monday nights at 6:30 pm.** [Monday Calendar]({% link monday.md %})
+**Returning Pack 98 Scouts and new Scouts from Westside Elementary meet on Monday nights at 6:30 pm.** [Monday Calendar](monday)
 
-**New Scouts from McRae and Sidney Deener Elementary schools meet on Tuesday nights at 6:30 pm.** [Tuesday Calendar]({% link tuesday.md %})
+**New Scouts from McRae and Sidney Deener Elementary schools meet on Tuesday nights at 6:30 pm.** [Tuesday Calendar](tuesday)
 
 Starting the week of September 11, Cub Scouts will meet Monday & Tuesday evenings at 6:30 pm at First Christian Church, 2721 W Beebe Capps.
 
@@ -22,7 +20,7 @@ Den meetings are held every Monday & Tuesday, except for the third Monday & Tues
 
 We follow the Searcy Public Schools inclement weather policy. If Searcy Public Schools are closed during the day, we will not meet that evening. 
 
-Our calendar handout was printed with [Monday dates]({% link monday.md %}). The [Tuesday night group]({% link tuesday.md %}) will only meet on weeks when the Monday group meets. For example, we are not meeting on Labor Day (a Monday), so we will not be meeting on the day after (which is Tuesday) either.
+Our calendar handout was printed with [Monday dates](monday). The [Tuesday night group](tuesday) will only meet on weeks when the Monday group meets. For example, we are not meeting on Labor Day (a Monday), so we will not be meeting on the day after (which is Tuesday) either.
 
 ### Where do you meet?
 **Pack 98 meets at First Christian Church (our charter organization) at 2721 W Beebe Capps, Searcy, AR 72143.**
@@ -35,18 +33,8 @@ Sign up for alerts & reminders by texting **@gopack98** to **81010**. If you are
 We also have a [Facebook group for sharing photos and less urgent announcements](https://www.facebook.com/groups/searcypack98/) if you would like to join.
 
 # Cub Scout Essentials
-## Can you explain Pack organization?
-A Pack is a local Cub Scout unit divided up into Dens.
-
-A Den is 5-10 boys in the same grade. Each Den works over the school year to complete the requirements for their rank badge. 
-
-Grade | Rank 
------ | ----
-1st Grade | Tiger
-2nd Grade | Wolf
-3rd Grade | Bear
-4th Grade | Webelos I
-5th Grade | Webelos II
+## [What uniform do I need to buy? How much do uniforms cost? Where do I buy them?](#uniform)
+[Click here for answers to your Uniform questions.](uniforms)
 
 ## What is the Bobcat Badge?
 All new Scouts must complete their Bobcat badge before working on their rank badge. Three of the Bobcat requirements are to learn the Cub Scout Motto, Scout Oath, and the Scout Law. Please work with your Scout to learn these before our first meeting. Here is [a complete set of the Bobcat requirements](bobcat.pdf).
@@ -63,7 +51,20 @@ A Scout is trustworthy, loyal, helpful, friendly, courteous, kind, obedient, che
 ## Youth Protection
 All Scout leaders and Pack Committee members undergo Youth Protection Training every 2 years. **Reviewing the [Youth Protection: How to Protect Your Child from Child Abuse](http://www.scouting.org/filestore/pdf/100-014_WEB.pdf) guide with your Cub Scout is a requirement for every single rank, every year in Cub Scouts.**
 
-# What is the Pack Committee and how is leadership organized?
+## Can you explain Pack organization?
+A Pack is a local Cub Scout unit divided up into Dens.
+
+A Den is 5-10 boys in the same grade. Each Den works over the school year to complete the requirements for their rank badge. 
+
+Grade | Rank 
+----- | ----
+1st Grade | Tiger
+2nd Grade | Wolf
+3rd Grade | Bear
+4th Grade | Webelos I
+5th Grade | Webelos II
+
+## What is the Pack Committee and how is leadership organized?
 The Pack Committee, headed by the Pack Committee Chairman, works with our charter organization, First Christian Church, to run our Cub Scout Pack.
 
 The Pack Committee works with the Cubmaster and Den Leaders to provide a great program for our Cub Scouts.
