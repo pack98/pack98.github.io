@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 include_in_nav: true
 ---
-*Welcome to Cub Scout Pack 98.** Our goal is to work with parents to develop our sons into people who care and understand about the amazing world around them. It’s been said that, **“Scouting is fun with a purpose”**, and we believe that to be true. Scouting does this by mixing fun activities like games, field trips, camping, competitions like Pinewood Derby, service projects, and crafts with teachings about character, citizenship, and concern for our fellow man.
+**Welcome to Cub Scout Pack 98.** Our goal is to work with parents to develop our sons into people who care and understand about the amazing world around them. It’s been said that, **“Scouting is fun with a purpose”**, and we believe that to be true. Scouting does this by mixing fun activities like games, field trips, camping, competitions like Pinewood Derby, service projects, and crafts with teachings about character, citizenship, and concern for our fellow man.
 
 Families are essential to our Pack success. Cub Scouts provides a structure for you and your son to play and learn together. You can do even more: every leader in Pack 98 either has a son in Scouting or was an Eagle Scout. **All of us are volunteers.** Please see one of us if you are interested in leading or helping out in any way.
 
