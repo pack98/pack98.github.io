@@ -36,6 +36,9 @@ We also have a [Facebook group for sharing photos and less urgent announcements]
 <h2 id="uniforms">What uniform do I need to buy? How much do uniforms cost? Where do I buy them?</h2>
 [Click here for answers to your Uniform questions.](uniforms)
 
+## What uniform do I need to buy? How much do uniforms cost? Where do I buy them? ## {#uniform}
+[Click here for answers to your Uniform questions.](uniforms)
+
 ## What is the Bobcat Badge?
 All new Scouts must complete their Bobcat badge before working on their rank badge. Three of the Bobcat requirements are to learn the Cub Scout Motto, Scout Oath, and the Scout Law. Please work with your Scout to learn these before our first meeting. Here is [a complete set of the Bobcat requirements](bobcat.pdf).
 
