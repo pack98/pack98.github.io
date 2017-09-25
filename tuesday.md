@@ -13,7 +13,7 @@ Sept 26 | Den Meetings, 6:30 pm
 Oct 3 | Den Meetings, 6:30 pm
 Oct 6-8 | [Quapaw Council Camp at Camp Rockefeller](http://www.quapawbsa.org/camping/cub-scout/)
 Oct 10 | Popcorn Order Forms & Money Due at Den Meetings, 6:30 pm
-TBD | Pack Meeting, 6:30 pm
+Oct 16 | Pack Meeting, 6:30 pm **This is on a Monday**
 Oct 24 | Den Meetings, 6:30 pm
 Oct 27-29 | [Quapaw Council Camp at Camp Rockefeller](http://www.quapawbsa.org/camping/cub-scout/)
 Oct 31 | Den Meetings, 6:30 pm
