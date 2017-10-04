@@ -19,15 +19,17 @@ Most importantly, your money collected must match your order form total + donati
 We are staggering the time that you can arrive and turn in your form. Starting at 6:00 pm, we will be here to collect Order Forms and Money.
 
 ### Monday
-6:00 pm Any Rank
-6:30 pm Tigers
-6:45 pm Wolves
-7:00 pm Bears
-7:15 pm Webelos
+----- | -----
+6:00 pm | Any Rank
+6:30 pm | Tigers
+6:45 pm | Wolves
+7:00 pm | Bears
+7:15 pm | Webelos
 
 ### Tuesday
-6:00 pm Any Rank
-6:30 pm Tigers McRae
-6:50 pm Tigers Deener
-7:10 pm Wolves
-7:20 pm Bears
+----- | -----
+6:00 pm | Any Rank
+6:30 pm | Tigers McRae
+6:50 pm | Tigers Deener
+7:10 pm | Wolves
+7:20 pm | Bears
