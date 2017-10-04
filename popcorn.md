@@ -19,6 +19,7 @@ Most importantly, your money collected must match your order form total + donati
 We are staggering the time that you can arrive and turn in your form. Starting at 6:00 pm, we will be here to collect Order Forms and Money.
 
 ### Monday
+
 Time  | Den 
 ----- | -----
 6:00 pm | Any Rank
@@ -28,6 +29,7 @@ Time  | Den
 7:15 pm | Webelos
 
 ### Tuesday
+
 Time  | Den 
 ----- | -----
 6:00 pm | Any Rank
