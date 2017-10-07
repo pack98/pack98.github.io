@@ -12,6 +12,7 @@ Most importantly, your money collected must match your order form total + donati
 * column (quantity) totals
 * total amount
 * money collected equals your total amount
+* please sort/group money by denomination
 * your Scout's prize choices
 * if you have Donations, please note their total to the side of the order totals
 
