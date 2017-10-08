@@ -14,7 +14,7 @@ Most importantly, your money collected must match your order form total + donati
 * money collected equals your total amount
 * please sort/group money by denomination
 * if you have Donations, please note their total to the side of the order totals
-* **your Scout's prize choices**
+* [**your Scout's prize choices**](prizes-2017.pdf)
 
 ## Turn-in Times
 We are staggering the time that you can arrive and turn in your form. Starting at 6:00 pm, we will be here to collect Order Forms and Money.
