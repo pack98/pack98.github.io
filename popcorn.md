@@ -7,14 +7,14 @@ I'll be honest, we've never been super duper fast in processing orders on Popcor
 
 Most importantly, your money collected must match your order form total + donations. 
 
-## Please Verify:
+## Please Verify Before the Meeting:
 * order by order (row) totals
 * column (quantity) totals
 * total amount
 * money collected equals your total amount
 * please sort/group money by denomination
-* your Scout's prize choices
 * if you have Donations, please note their total to the side of the order totals
+* **your Scout's prize choices**
 
 ## Turn-in Times
 We are staggering the time that you can arrive and turn in your form. Starting at 6:00 pm, we will be here to collect Order Forms and Money.
