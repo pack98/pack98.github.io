@@ -20,7 +20,7 @@ Oct 31 | Den Meetings, 6:30 pm
 Nov 3-5 | Pack Campout at Crowley's Ridge State Park
 Nov 7 | Popcorn Pickup, 6:30 pm
 Nov 14 | Den Meetings, 6:30 pm
-Nov 21 | Den Meetings, 6:30 pm
+Nov 20 | Pack Meeting, 6:30 pm **This is on a Monday**
 Nov 28 | Den Meetings, 6:30 pm
 Dec 2 | Searcy Christmas Parade, 5:15 pm
 Dec 5 | Den Meetings, 6:30 pm
