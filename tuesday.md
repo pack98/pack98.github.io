@@ -25,4 +25,4 @@ Nov 28 | Den Meetings, 6:30 pm
 Dec 2 | Searcy Christmas Parade, 5:15 pm
 Dec 5 | Den Meetings, 6:30 pm
 Dec 12 | Den Meetings, 6:30 pm
-Dec 19 | Pack Christmas Party & Service Project, 6:30 pm
+Dec 18 | Pack Christmas Party & Service Project, 6:30 pm **This is on a Monday**
