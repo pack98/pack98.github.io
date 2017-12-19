@@ -1,7 +1,7 @@
 ---
 include_in_nav: true
 ---
-### Pack 98 Calendar, January - May 2018
+### Spring 2018 Calendar
 
 Date  | Event 
 ----- | -----
