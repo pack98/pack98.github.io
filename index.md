@@ -11,6 +11,7 @@ Families are essential to our Pack success. Cub Scouts provides a structure for 
 Due to the surge in new Scouts joining us this year, we do not have enough space at the building for all of us to meet at one time. After much discussion, our solution is to split meetings into two nights a week:
 
 **Returning Pack 98 Scouts and new Scouts from Westside Elementary meet on Monday nights at 6:30 pm.** [Calendar](calendar)
+
 **New Scouts from McRae and Sidney Deener Elementary schools meet on Tuesday nights at 6:30 pm.** [Calendar](calendar)
 
 Starting the week of September 11, Cub Scouts will meet Monday & Tuesday evenings at 6:30 pm at First Christian Church, 2721 W Beebe Capps.
