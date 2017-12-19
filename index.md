@@ -10,17 +10,14 @@ Families are essential to our Pack success. Cub Scouts provides a structure for 
 ### When do you meet?
 Due to the surge in new Scouts joining us this year, we do not have enough space at the building for all of us to meet at one time. After much discussion, our solution is to split meetings into two nights a week:
 
-**Returning Pack 98 Scouts and new Scouts from Westside Elementary meet on Monday nights at 6:30 pm.** [Monday Calendar](monday)
-
-**New Scouts from McRae and Sidney Deener Elementary schools meet on Tuesday nights at 6:30 pm.** [Tuesday Calendar](tuesday)
+**Returning Pack 98 Scouts and new Scouts from Westside Elementary meet on Monday nights at 6:30 pm.** [Calendar](calendar)
+**New Scouts from McRae and Sidney Deener Elementary schools meet on Tuesday nights at 6:30 pm.** [Calendar](calendar)
 
 Starting the week of September 11, Cub Scouts will meet Monday & Tuesday evenings at 6:30 pm at First Christian Church, 2721 W Beebe Capps.
 
 Den meetings are held every Monday & Tuesday, except for the third Monday & Tuesday of the month when we hold our Pack Meeting.
 
 We follow the Searcy Public Schools inclement weather policy. If Searcy Public Schools are closed during the day, we will not meet that evening. 
-
-Our calendar handout was printed with [Monday dates](monday). The [Tuesday night group](tuesday) will only meet on weeks when the Monday group meets. For example, we are not meeting on Labor Day (a Monday), so we will not be meeting on the day after (which is Tuesday) either.
 
 ### Where do you meet?
 **Pack 98 meets at First Christian Church (our charter organization) at 2721 W Beebe Capps, Searcy, AR 72143.**
