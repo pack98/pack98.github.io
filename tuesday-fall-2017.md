@@ -1,5 +1,5 @@
 ---
-include_in_nav: true
+include_in_nav: false
 ---
 ### Tuesday Night Calendar - Fall 2017
 for new Scouts from McRae and Sidney Deener Elementary schools 
