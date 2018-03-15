@@ -18,6 +18,8 @@ Starting the week of September 11, Cub Scouts will meet Monday & Tuesday evening
 
 Den meetings are held every Monday & Tuesday, except for the third Monday & Tuesday of the month when we hold our Pack Meeting.
 
+Pack Committee meetings are every third Thursday of the month at 8:15 pm.
+
 We follow the Searcy Public Schools inclement weather policy. If Searcy Public Schools are closed during the day, we will not meet that evening. 
 
 ### Where do you meet?
