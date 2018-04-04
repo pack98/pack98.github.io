@@ -20,7 +20,7 @@ Mar 12/13 | Den Meetings, 6:30 pm
 Mar 19 | No Meetings: Searcy Schools Spring Break
 Mar 26/27 | Den Meetings, 6:30 pm
 April 2/3 | Den Meetings, 6:30 pm
-April 6-8 | Spring Campout - Crowley's Ridge State Park
+April 6-8 | [Spring Campout - Crowley's Ridge State Park](http://pack98.org/spring-camp-info-2018.pdf)
 April 9/10 | No Meetings
 April 16 | Pack Meeting, 6:30 pm
 April 23/24 | Den Meetings, 6:30 pm
