@@ -26,4 +26,4 @@ April 16 | Pack Meeting, 6:30 pm
 April 23/24 | Den Meetings, 6:30 pm
 April 30 | Den Meetings, 6:30 pm
 May 1 | Den Meetings, 6:30 pm
-May 5 | Crossover Ceremony, 6:30 pm
+May 5 | Crossover Ceremony, 4:45 pm
