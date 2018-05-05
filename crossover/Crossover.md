@@ -111,15 +111,31 @@ If needed.
 #### DEN PHOTO. Scouts sit down.
 
 ### Arrow of Light Recognition
+> When a Cub Scout reaches fifth grade, he begins working on their the Arrow of Light. The Arrow of Light is the highest rank in Cub Scouting. **Ask Den Leaders to reflect on few activities and special memories**
 
-**Alec Chappell, Braxton Likert, Dallas Pence, Tyler Money, Mayson McNeace**
+> Will the following Scouts and their parents please come forward? **___**
 
-Webelos Den Leader:
+> With so much symbolism built into the Arrow of Light patch, we thought it appropriate to take a few minutes to explain the symbolism so that we understand what it is the boys will be wearing on the chest, close to their heart. The prominent colors of the Arrow of Light are blue and gold The color blue represents the spirit of Cub Scouting. The color gold represents the warm rays of the sun. The arrow is symbolic of everything that is straight and true. Just as a Scout should be straight and true in his life and to himself. The arrow points the way of the Scouting trail. At the base of the arrow are three feathers. An arrow needs three feathers to fly straight and true. The three feathers represent the three groups which support and uphold the Scout: his den leaders, his parents, and his pack. The shaft of the arrow is long, straight and true, a reminder to the Scout to always be straight with, and true to, himself and that he must be honest with himself and others, and that this is sometimes a difficult and long journey. At the tip of the arrow is a sharp point, reminding the Scout that he must always remain sharp, alert and aware. The arch is the sun rising at daybreak, the start of a new week in scouting and in life. The arch in its entirety as a circle, represents the sun as the Scout is a source of light for those around him, and the full circle is a reminder that the spirit of Scouting is never ending. The seven rays represent the seven days of the week. A reminder that the Scout should do his best every day.
 
-_I’ll say something and present him with the frame and he will cross over the bridge and we will remove the Cub Scout epaulets._
+#### Give the Arrow of Light badge to the parents
+> We have given your Arrow of Light badge to your parents. They have helped you to earn the Arrow of Light. Parents, please present the Arrow of Light badge to your son and congratulate them on a job well done.
 
-### Spouse Awards?
+#### Give the pins to the scouts
+> Scouts, we have given you a pin with the Arrow of Light badge on it. It is there for you to give to your parents as a thank you for all the great things they have helped you achieve. Scouts, please give the pin to your parents and thank them for all they do for you.
 
-### When to give award to First Christian?
+> It is time now for our Arrow of Light Scouts and their parents to continue on the path of Scouting. It is time to crossover from Cub Scouts to Boy Scouts. The Arrow of Light is the only rank you can carry over to the Boy Scouts. It is the only rank in Cub Scouts an adult leader can wear on their uniform. Parents, please be seated.
+
+> Scouts, as you cross over the bridge, reflect upon what you have accomplished and on those who have helped you along the way.
+
+#### Scouts cross the bridge, congratulated by the Troop, replacing the Cub Scout epaulets
+
+#### TROOP PHOTO. Scouts sit down.
 
 ### Discuss Summer Calendar
+
+### Present new Pack Committee Chairman for Pack 98
+
+### Present new Cubmaster for Pack 98 and Pack 96
+
+### Give award to First Christian
+
