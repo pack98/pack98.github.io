@@ -1,6 +1,6 @@
 ### Flag Ceremony & Welcome
 
-### Bobcat Badge Ceremony (SKIP)
+### [Bobcat Badge Ceremony (if needed)](Bobcat.md)
 
 Cubmaster:
 
