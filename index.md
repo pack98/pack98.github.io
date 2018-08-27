@@ -2,12 +2,12 @@
 title: Welcome
 include_in_nav: true
 ---
-**Welcome to Cub Scout Pack 98.** Our goal is to work with parents to develop our sons into people who care and understand about the amazing world around them. It’s been said that, **“Scouting is fun with a purpose”**, and we believe that to be true. Scouting does this by mixing fun activities like games, field trips, camping, competitions like Pinewood Derby, service projects, and crafts with teachings about character, citizenship, and concern for our fellow man.
+## How do I get announcements from the Pack?
+Sign up for alerts & reminders by texting **@gopack98** to **81010**. If you are on a mobile phone, [you can tap here and hit send](sms:81010&body=@gopack98).
 
-Families are essential to our Pack success. Cub Scouts provides a structure for you and your son to play and learn together. You can do even more: every leader in Pack 98 either has a son in Scouting or was an Eagle Scout. **All of us are volunteers.** Please see one of us if you are interested in leading or helping out in any way.
+We also have a [Facebook group for sharing photos and less urgent announcements](https://www.facebook.com/groups/searcypack98/) if you would like to join.
 
-## Meetings
-### When do you meet?
+## When do you meet?
 Starting the week of September 10, Cub Scouts will meet Monday evenings at 6:00 pm at First Christian Church, 2721 W Beebe Capps.
 
 Den meetings are held every Monday, except for the third Monday of the month when we hold our Pack Meeting.
@@ -16,15 +16,15 @@ Pack Committee meetings are every third Thursday of the month at 8:15 pm.
 
 We follow the Searcy Public Schools inclement weather policy. If Searcy Public Schools are closed during the day, we will not meet that evening. 
 
-### Where do you meet?
+## Where do you meet?
 **Pack 98 meets at First Christian Church (our charter organization) at 2721 W Beebe Capps, Searcy, AR 72143.**
 
 Head west on Beebe-Capps past Harp's Grocery store, through the intersection; the building is on your left.
 
-# How do I get announcements from the Pack?
-Sign up for alerts & reminders by texting **@gopack98** to **81010**. If you are on a mobile phone, [you can tap here and hit send](sms:81010&body=@gopack98).
+# Welcome to Pack 98
+Our goal is to work with parents to develop our children into people who care and understand about the amazing world around them. It’s been said that, **“Scouting is fun with a purpose”**, and we believe that to be true. Scouting does this by mixing fun activities like games, field trips, camping, competitions like Pinewood Derby, service projects, and crafts with teachings about character, citizenship, and concern for our fellow man.
 
-We also have a [Facebook group for sharing photos and less urgent announcements](https://www.facebook.com/groups/searcypack98/) if you would like to join.
+Families are essential to our Pack success. Cub Scouts provides a structure for you and your Scout to play and learn together. You can do even more: every leader in Pack 98 either has a child in Scouting or was an Eagle Scout. **All of us are volunteers.** Please see one of us if you are interested in leading or helping out in any way.
 
 # Cub Scout Essentials
 ## [Click here for answers to your Uniform questions.](uniforms) ## {#uniforms}
