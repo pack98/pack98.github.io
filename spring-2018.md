@@ -1,5 +1,5 @@
 ---
-include_in_nav: true
+include_in_nav: false
 ---
 ### January - May 2018 Calendar
 

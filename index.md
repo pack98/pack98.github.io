@@ -8,15 +8,9 @@ Families are essential to our Pack success. Cub Scouts provides a structure for 
 
 ## Meetings
 ### When do you meet?
-Due to the surge in new Scouts joining us this year, we do not have enough space at the building for all of us to meet at one time. After much discussion, our solution is to split meetings into two nights a week:
+Starting the week of September 10, Cub Scouts will meet Monday & Tuesday evenings at 6:00 pm at First Christian Church, 2721 W Beebe Capps.
 
-**Returning Pack 98 Scouts and new Scouts from Westside Elementary meet on Monday nights at 6:30 pm.** [Calendar](calendar)
-
-**New Scouts from McRae and Sidney Deener Elementary schools meet on Tuesday nights at 6:30 pm.** [Calendar](calendar)
-
-Starting the week of September 11, Cub Scouts will meet Monday & Tuesday evenings at 6:30 pm at First Christian Church, 2721 W Beebe Capps.
-
-Den meetings are held every Monday & Tuesday, except for the third Monday & Tuesday of the month when we hold our Pack Meeting.
+Den meetings are held every Monday, except for the third Monday of the month when we hold our Pack Meeting.
 
 Pack Committee meetings are every third Thursday of the month at 8:15 pm.
 
@@ -53,7 +47,7 @@ All Scout leaders and Pack Committee members undergo Youth Protection Training e
 ## Can you explain Pack organization?
 A Pack is a local Cub Scout unit divided up into Dens.
 
-A Den is 5-10 boys in the same grade. Each Den works over the school year to complete the requirements for their rank badge. 
+A Den is 5-10 Scouts in the same grade. Each Den works over the school year to complete the requirements for their rank badge. 
 
 Grade | Rank 
 ----- | ----
@@ -63,14 +57,16 @@ Grade | Rank
 4th Grade | Webelos I
 5th Grade | Webelos II
 
-## What is the Pack Committee and how is leadership organized?
+## What is the Pack Committee?
 The Pack Committee, headed by the Pack Committee Chairman, works with our charter organization, First Christian Church, to run our Cub Scout Pack.
 
 The Pack Committee works with the Cubmaster and Den Leaders to provide a great program for our Cub Scouts.
 
 Our Pack Committee's decision making is guided by three principles:
-1. When possible, do what is best for the boys.
+1. When possible, do what is best for the Scouts.
 2. Don't punish boys for the mistakes of adults.
 3. Financial transparency in all our efforts.
 
-The Pack Committee consists of: John Exum (Pack Committee Chairman), Frank Likert (Treasurer & Assistant Cubmaster), Willie Abrams (Cubmaster), Bill LaGrange (Den Leader), and Jake Green (Assistant Den Leader). Scott Turley (Den Leader) is a member through the end of September 2017.
+## Who can I contact with more questions?
+
+Cubmaster Jake Green at [(817) 915-9063.](tel:-817-915-9063)
