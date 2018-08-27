@@ -8,7 +8,7 @@ Families are essential to our Pack success. Cub Scouts provides a structure for 
 
 ## Meetings
 ### When do you meet?
-Starting the week of September 10, Cub Scouts will meet Monday & Tuesday evenings at 6:00 pm at First Christian Church, 2721 W Beebe Capps.
+Starting the week of September 10, Cub Scouts will meet Monday evenings at 6:00 pm at First Christian Church, 2721 W Beebe Capps.
 
 Den meetings are held every Monday, except for the third Monday of the month when we hold our Pack Meeting.
 
