@@ -11,7 +11,7 @@ There are 2 types of Cub Scout Uniforms:
 
 - **The Class B uniform is a Scouting t-shirt.** We are fond of our Pack 98 t-shirts, but there are many designs available from the Scout Shop.
 
-We encourage Scouts to wear a uniform because it makes Scouts feel like they are part of something bigger than themselves. However, a Cub Scout uniform isn't required to participate in any Cub Scout activity, because we know there are many good reasons why a Scout may not have one.
+**We encourage Scouts to wear a uniform because it makes Scouts feel like they are part of something bigger than themselves.** However, a Cub Scout uniform isn't required to participate in any Cub Scout activity, because we know there are many good reasons why a Scout may not have one.
 
 ## Do I need to buy a complete Class A uniform?
 Most of our Scouts have a Class A shirt and one or more Class B t-shirts. A few have the complete uniform.
