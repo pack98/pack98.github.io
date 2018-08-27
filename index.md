@@ -64,7 +64,7 @@ The Pack Committee works with the Cubmaster and Den Leaders to provide a great p
 
 Our Pack Committee's decision making is guided by three principles:
 1. When possible, do what is best for the Scouts.
-2. Don't punish boys for the mistakes of adults.
+2. Don't punish Scouts for the mistakes of adults.
 3. Financial transparency in all our efforts.
 
 ## Who can I contact with more questions?
